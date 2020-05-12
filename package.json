@@ -1,0 +1,22 @@
+{
+  "name": "kapke07.github.io",
+  "version": "1.0.0",
+  "description": "Test page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapke07/kapke07.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapke07/kapke07.github.io/issues"
+  },
+  "homepage": "https://github.com/kapke07/kapke07.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
